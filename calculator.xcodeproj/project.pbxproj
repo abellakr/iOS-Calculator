@@ -38,7 +38,7 @@
 		9939792B2200D924004F6678 = {
 			isa = PBXGroup;
 			children = (
-				993979362200D925004F6678 /* calculator */,
+				993979362200D925004F6678 /* Calculator */,
 				993979352200D925004F6678 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		993979362200D925004F6678 /* calculator */ = {
+		993979362200D925004F6678 /* Calculator */ = {
 			isa = PBXGroup;
 			children = (
 				993979372200D925004F6678 /* AppDelegate.swift */,
@@ -61,7 +61,7 @@
 				993979402200D927004F6678 /* LaunchScreen.storyboard */,
 				993979432200D927004F6678 /* Info.plist */,
 			);
-			path = calculator;
+			path = Calculator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
